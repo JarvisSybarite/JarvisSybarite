@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I’m Jarvis 👋</h2>
+<h2 align="center">Hi, I’m Jarvis <img src="https://github.com/BattleBaxx/BattleBaxx/blob/main/wave.gif" width="30px"></h2>
 <p align="center">
 Software Engineer · Backend & Full Stack · Python
 </p>
