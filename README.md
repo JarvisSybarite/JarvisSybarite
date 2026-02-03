@@ -1,49 +1,15 @@
 <h2 align="center">Hi, I’m Jarvis 👋</h2>
 <p align="center">
-Backend & Full-Stack Software Engineer · Python · FastAPI
+Software Engineer · Backend & Full Stack · Python
 </p>
 
-I’m a Master’s graduate in Computer Science with experience building backend systems, research-driven AI tools, and operational software in academic and technical environments.
+---
 
-My background includes Python-based backend development, REST APIs, data pipelines, and cloud platforms, with experience collaborating across research, engineering, and administrative teams.
+### About Me
+Master’s graduate in Computer Science with hands-on experience building backend APIs, data-driven systems, and research-supported software.  
+Experienced in Python backend development, REST APIs, databases, and cloud platforms, with a focus on clean, documented, production-ready code.
 
-Current Focus
-- Backend development with FastAPI and Python
-- Data engineering and API-driven systems
-- Writing clean, documented, production-ready code
-
-Highlighted Work
-- Job Application Tracker API (FastAPI)
-- Research projects in machine learning and cybersecurity
-- Cloud-deployed applications using AWS services
-
-## Skills & Technologies
-
-**Languages**
-- Python
-- SQL
-- Java
-
-**Backend & APIs**
-- FastAPI
-- REST API design
-- Pydantic
-
-**Databases**
-- PostgreSQL
-- MySQL
-
-**Cloud & DevOps**
-- AWS (EC2, S3, IAM)
-- Docker
-- Git & GitHub
-- Linux
-
-**Data & Research**
-- Data pipelines
-- ETL workflows
-- Machine learning research support
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +20,7 @@ Highlighted Work
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-02569B)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -66,6 +32,15 @@ Highlighted Work
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+---
 
-Links
-LinkedIn: https://linkedin.com/in/jarvispremraj
+## 📌 Featured Projects
+- **Job Application Tracker API** — FastAPI backend with health checks, REST endpoints, and Swagger docs  
+- **Public Data ETL Dashboard** — Python + SQL data pipelines and reporting  
+- **Production REST API Template** — Clean API structure with environment setup and documentation
+
+---
+
+## 🔗 Links
+- GitHub: https://github.com/JarvisSybarite  
+- LinkedIn: https://linkedin.com/in/jarvispremraj
