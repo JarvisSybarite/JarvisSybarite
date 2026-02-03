@@ -1,12 +1,21 @@
 Hi, I’m Jarvis 👋
 
-Software Engineer focused on backend and full-stack development.
-Currently building production-ready APIs using Python and FastAPI.
+I’m a Master’s graduate in Computer Science with experience building backend systems, research-driven AI tools, and operational software in academic and technical environments.
 
-Pinned Projects
+My background includes Python-based backend development, REST APIs, data pipelines, and cloud platforms, with experience collaborating across research, engineering, and administrative teams.
+
+Current Focus
+- Backend development with FastAPI and Python
+- Data engineering and API-driven systems
+- Writing clean, documented, production-ready code
+
+Highlighted Work
 - Job Application Tracker API (FastAPI)
-- Public Data ETL Dashboard (Python, SQL)
-- Production REST API Template
+- Research projects in machine learning and cybersecurity
+- Cloud-deployed applications using AWS services
 
 Tech Stack
-Python · FastAPI · SQL · PostgreSQL · Git · Linux
+Python · SQL · FastAPI · PostgreSQL · REST APIs · Docker · AWS · Linux
+
+Links
+LinkedIn: https://linkedin.com/in/jarvispremraj
