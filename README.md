@@ -17,6 +17,34 @@ Highlighted Work
 - Research projects in machine learning and cybersecurity
 - Cloud-deployed applications using AWS services
 
+## Skills & Technologies
+
+**Languages**
+- Python
+- SQL
+- Java
+
+**Backend & APIs**
+- FastAPI
+- REST API design
+- Pydantic
+
+**Databases**
+- PostgreSQL
+- MySQL
+
+**Cloud & DevOps**
+- AWS (EC2, S3, IAM)
+- Docker
+- Git & GitHub
+- Linux
+
+**Data & Research**
+- Data pipelines
+- ETL workflows
+- Machine learning research support
+
+
 Tech Stack
 Python · SQL · FastAPI · PostgreSQL · REST APIs · Docker · AWS · Linux
 
