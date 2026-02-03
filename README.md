@@ -1,4 +1,7 @@
-Hi, I’m Jarvis 👋
+<h2 align="center">Hi, I’m Jarvis 👋</h2>
+<p align="center">
+Backend & Full-Stack Software Engineer · Python · FastAPI
+</p>
 
 I’m a Master’s graduate in Computer Science with experience building backend systems, research-driven AI tools, and operational software in academic and technical environments.
 
