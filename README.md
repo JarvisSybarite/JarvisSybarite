@@ -3,24 +3,27 @@
 Software Engineer · Backend & Full Stack · Python
 </p>
 
----
-
 ### About Me
 Master’s graduate in Computer Science with hands-on experience building backend APIs, data-driven systems, and research-supported software.  
 Experienced in Python backend development, REST APIs, databases, and cloud platforms, with a focus on clean, documented, production-ready code.
-
----
 
 ## 🛠️ Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B)
+
+### Systems & Fundamentals
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Networks
+- Distributed Systems
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -32,14 +35,10 @@ Experienced in Python backend development, REST APIs, databases, and cloud platf
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
----
-
 ## 📌 Featured Projects
 - **Job Application Tracker API** — FastAPI backend with health checks, REST endpoints, and Swagger docs  
 - **Public Data ETL Dashboard** — Python + SQL data pipelines and reporting  
 - **Production REST API Template** — Clean API structure with environment setup and documentation
-
----
 
 ## 🔗 Links
 - GitHub: https://github.com/JarvisSybarite  
