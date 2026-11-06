@@ -55,7 +55,43 @@ Experienced in Python backend development, REST APIs, databases, and cloud platf
 
 ## Who I am & what I’m interested in
 
-Outside of work, I’m into **Formula 1, biking, and national parks**.
+I follow Formula 1, and when I can get outside I’m usually on a bike, out for a run, or looking for the next national park.
+
+### Biking
+
+My longest ride so far was a **Florida coast-to-coast ride on the longest day of 2026**. I’m looking for group rides in the Bay Area, and my next big goal is to ride the entire Bay loop and stretch it to **100 miles**. [Follow me on Strava](https://www.strava.com/athletes/71781898).
+
+```mermaid
+flowchart LR
+    FL["Longest ride so far: Florida coast to coast"] --> BAY["Next goal: 100-mile Bay loop"]
+```
+
+### Running
+
+Saturday mornings are for **Baylands parkrun** in Sunnyvale. I’ve run one half marathon, and I’m training for my first full marathon. The Saturday 5K gives me a familiar course to see how the training is going.
+
+### Travel
+
+I was born and raised in **Hyderabad**, moved to **New Delhi** for undergrad, and visited **14 Indian states**. I interned at **Georgia Tech in Atlanta** and moved to the US to study at the **University of Florida**. I traveled whenever I could while at UF. When I moved to California for new opportunities, I made the move a **4,500-mile road trip**. I’ve visited **31 US states** so far.
+
+```mermaid
+flowchart LR
+    H[Hyderabad] --> D[New Delhi]
+    D --> A[Atlanta]
+    A --> F[University of Florida]
+    F -->|4,500-mile road trip| C[California]
+```
+
+### National Parks
+
+I’m working toward visiting every US national park. My checklist has **17 of 63** marked visited, including Everglades, Mammoth Cave, Yellowstone, and Yosemite. [See my parks checklist](https://docs.google.com/document/d/1pnW7Qr9my8tg9lgtuH_Nd4oirCl3BsMumfLeGR4R2Uc/edit?usp=sharing).
+
+```mermaid
+pie showData
+    title US national parks on my checklist
+    "Visited" : 17
+    "Still to visit" : 46
+```
 
 ### Finance & Capital Markets
 
