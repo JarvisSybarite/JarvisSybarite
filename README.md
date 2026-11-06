@@ -49,6 +49,12 @@ Experienced in Python backend development, REST APIs, databases, and cloud platf
 
 - **[Backend Engineering from First Principles](https://github.com/JarvisSybarite/backend-from-first-principles)** — An ongoing series that follows a fictional bookstore from its first HTTP request to production. Start with [the roadmap](https://github.com/JarvisSybarite/backend-from-first-principles/blob/main/01-the-roadmap.md).
 
+## Outside of work
+
+- **Formula 1** — I follow the races and enjoy the strategy behind them.
+- **Biking** — My favorite way to get outside and explore.
+- **National parks** — I’m always up for a trip that starts with a trail map.
+
 ## 🔗 Links
 - GitHub: https://github.com/JarvisSybarite  
 - LinkedIn: https://linkedin.com/in/jarvispremraj
