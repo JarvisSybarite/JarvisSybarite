@@ -37,8 +37,8 @@ Experienced in Python backend development, REST APIs, databases, and cloud platf
 
 ## 📌 Featured Projects
 
-- **[LaiD · Meal Planner](https://github.com/JarvisSybarite/laid-meal-planner)** — A React and Flask rebuild of an undergraduate project, with meal plans, grocery checklists, and the original research paper.
-- **[Big Brain · MRI Classification](https://github.com/JarvisSybarite/big-brain-mri#original-research-showcase)** — Original research figures and model comparisons alongside a Python rebuild verified on synthetic data.
+- **[LaiD · Meal Planner](https://github.com/jarvisthuluri/laid-meal-planner)** — A React and Flask rebuild of an undergraduate project, with meal plans, grocery checklists, and the original research paper.
+- **[Big Brain · MRI Classification](https://github.com/jarvisthuluri/big-brain-mri#original-research-showcase)** — Original research figures and model comparisons alongside a Python rebuild verified on synthetic data.
 
 ## More Projects
 - **Job Application Tracker API** — FastAPI backend with health checks, REST endpoints, and Swagger docs  
@@ -47,10 +47,12 @@ Experienced in Python backend development, REST APIs, databases, and cloud platf
 
 ## Writing
 
-- **[Backend Engineering from First Principles](https://github.com/JarvisSybarite/backend-from-first-principles)** — An ongoing series that follows a fictional bookstore from its first HTTP request to production. Start with [the roadmap](https://github.com/JarvisSybarite/backend-from-first-principles/blob/main/01-the-roadmap.md).
+- **[Backend Engineering from First Principles](https://github.com/jarvisthuluri/backend-from-first-principles)** — An ongoing series that follows a fictional bookstore from its first HTTP request to production. Start with [the roadmap](https://github.com/jarvisthuluri/backend-from-first-principles/blob/main/01-the-roadmap.md).
 
 ## 🔗 Links
-- GitHub: https://github.com/JarvisSybarite  
+
+- [Jarvis Wiki](https://jarvisthuluri.github.io/jarviswiki/)
+- GitHub: https://github.com/jarvisthuluri  
 - LinkedIn: https://linkedin.com/in/jarvispremraj
 
 ## Who I am & what I’m interested in
