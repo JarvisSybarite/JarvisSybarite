@@ -59,7 +59,7 @@ Outside of work, I’m into **Formula 1, biking, and national parks**.
 
 ### Finance & Capital Markets
 
-- I’m interested in quantitative trading and how [markets have evolved alongside computing](https://www.sifma.org/wp-content/uploads/2019/10/SIFMA-Insights-Electronic-Trading-Market-Structure-Primer.pdf), especially exchange matching algorithms, price discovery, and auction design.
+- I’m interested in quantitative trading and how markets have evolved alongside computing, especially exchange matching algorithms, price discovery, and auction design.
 - I enjoy reading about [the history of commodity markets](https://thedocs.worldbank.org/en/doc/b4ff84b2d5dc4d0963a5074102460cc1-0350012022/related/Commodity-Markets-Chapter-1.pdf), from the [Dojima rice exchange](https://www.jpx.co.jp/dojima/en/index.html) to the development of [oil futures markets](https://www.cmegroup.com/openmarkets/energy/2023/the-40-year-story-of-a-crude-oil-benchmark.html). I’m curious about how centralizing trade changed the way these markets developed.
 - I think prices and [technological gains in productivity](https://www.jstor.org/stable/1910871) tell us a great deal about long-run economic growth and the stability of societies.
 - Beyond trading, I’m interested in deal-making, particularly private equity and venture investing.
