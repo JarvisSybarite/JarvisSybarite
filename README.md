@@ -35,12 +35,12 @@ Experienced in Python backend development, REST APIs, databases, and cloud platf
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-## More Projects
+## 📌 Featured Projects
 
 - **[LaiD · Meal Planner](https://github.com/JarvisSybarite/laid-meal-planner)** — A React and Flask rebuild of an undergraduate project, with meal plans, grocery checklists, and the original research paper.
 - **[Big Brain · MRI Classification](https://github.com/JarvisSybarite/big-brain-mri#original-research-showcase)** — Original research figures and model comparisons alongside a Python rebuild verified on synthetic data.
 
-## 📌 Featured Projects
+## More Projects
 - **Job Application Tracker API** — FastAPI backend with health checks, REST endpoints, and Swagger docs  
 - **Public Data ETL Dashboard** — Python + SQL data pipelines and reporting  
 - **Production REST API Template** — Clean API structure with environment setup and documentation
