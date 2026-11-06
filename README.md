@@ -88,16 +88,23 @@ I follow Formula 1, and when I can get outside I’m usually on a bike, out for 
 
 ### Travel
 
-I grew up in **Hyderabad** and moved to **New Delhi** for undergrad. I’ve visited **14 states in India**. An internship at **Georgia Tech in Atlanta** brought me to the US for a stint, and I later moved here to study at the **University of Florida**. I traveled whenever I could while at UF.
+#### India
 
-When I moved from Florida to California for new opportunities, I turned the move into a **4,500-mile road trip**. I’ve visited **31 US states** so far.
-
-- **Hyderabad → New Delhi** · Home to undergrad.
-- **Atlanta → Florida** · A Georgia Tech internship and, later, grad school at UF.
-- **Florida → California** · The cross-country move, with enough detours to make a trip of it.
+I grew up in **Hyderabad** and moved to **New Delhi** for undergrad.
 
 - **Indian states visited:** `██████████░░░░░░░░░░` **14/28** (50%)
+
+#### US
+
+I interned at **Georgia Tech in Atlanta**, then moved to the US to study at the **University of Florida**. I traveled whenever I could while at UF. When I moved from Florida to California for new opportunities, I turned the move into a **4,500-mile road trip**.
+
 - **US states visited:** `████████████░░░░░░░░` **31/50** (62%)
+
+##### National Parks
+
+I’m working toward visiting every US national park. My checklist has **17 of 63** marked visited, including Everglades, Mammoth Cave, Yellowstone, and Yosemite. [See my parks checklist](https://docs.google.com/document/d/1pnW7Qr9my8tg9lgtuH_Nd4oirCl3BsMumfLeGR4R2Uc/edit?usp=sharing).
+
+- **US national parks visited:** `█████░░░░░░░░░░░░░░░` **17/63** (27%)
 
 ### Private Pilot Training
 
@@ -106,9 +113,3 @@ I’m in ground school and working toward earning my private pilot license in **
 ### Formula 1
 
 I’m a **Mercedes F1** fan, and I still root for **Lewis Hamilton** after his move to Ferrari. My favorite driver of all time is **Valtteri Bottas**.
-
-### National Parks
-
-I’m working toward visiting every US national park. My checklist has **17 of 63** marked visited, including Everglades, Mammoth Cave, Yellowstone, and Yosemite. [See my parks checklist](https://docs.google.com/document/d/1pnW7Qr9my8tg9lgtuH_Nd4oirCl3BsMumfLeGR4R2Uc/edit?usp=sharing).
-
-- **US national parks visited:** `█████░░░░░░░░░░░░░░░` **17/63** (27%)
