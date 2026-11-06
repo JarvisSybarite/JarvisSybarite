@@ -57,14 +57,31 @@ Experienced in Python backend development, REST APIs, databases, and cloud platf
 
 I follow Formula 1, and when I can get outside I’m usually on a bike, out for a run, or looking for the next national park.
 
+### Computer Science
+
+- Every few years I revisit the classics. I keep a [reading list of papers that helped define the field](https://docs.google.com/spreadsheets/d/11tlsKSeJrTP3r7ITQS3ql-Z4ZpR-K-zG67Q5htzrRbA/edit?usp=sharing).
+- Lately I’ve been following data-efficient learning, long-context sequence modeling, and multi-agent systems. I’m fascinated by what models can learn from the distribution of their training data and what sampling from those models might help us discover.
+- I’m following work on [teaching models to use tools](https://www.ft.com/content/64b1bb33-095e-4cc5-a911-50df76fa3d1d), from software and operating systems to physical instruments, and how that might [help automate scientific research](https://www.pnas.org/doi/10.1073/pnas.2406320121).
+- I think demand for compute may follow [Jevons’s paradox](https://en.wikipedia.org/wiki/Jevons_paradox). The history of [search and learning in AI](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) is one reason I keep coming back to that idea.
+- On the systems side, I’m interested in [orchestrating containers at scale](https://arxiv.org/abs/2205.07147), languages built around tensors with C++-class performance, and the relationship between data centers and power markets.
+
+### Finance & Capital Markets
+
+- I’m interested in quantitative trading and how markets have evolved alongside computing, especially exchange matching algorithms, price discovery, and auction design.
+- I enjoy reading about [the history of commodity markets](https://thedocs.worldbank.org/en/doc/b4ff84b2d5dc4d0963a5074102460cc1-0350012022/related/Commodity-Markets-Chapter-1.pdf), from the [Dojima rice exchange](https://www.jpx.co.jp/dojima/en/index.html) to the development of [oil futures markets](https://www.cmegroup.com/openmarkets/energy/2023/the-40-year-story-of-a-crude-oil-benchmark.html). I’m curious about how centralizing trade changed the way these markets developed.
+- I think prices and [technological gains in productivity](https://www.jstor.org/stable/1910871) tell us a great deal about long-run economic growth and the stability of societies.
+- Beyond trading, I’m interested in deal-making, particularly private equity and venture investing.
+
 ### Biking
 
-On June 21, 2026, I rode coast to coast across Florida. **125.52 miles and 14:30:39 of moving time** made it my longest ride so far. [Florida: The Farewell Tour on Strava](https://www.strava.com/activities/19017091239). I’m looking for group rides in the Bay Area, and my next big goal is to ride the entire Bay loop and stretch it to **100 miles**. [Follow me on Strava](https://www.strava.com/athletes/71781898).
+I spent the longest day of 2026 seeing how far daylight and two wheels would get me. The answer was **125.52 miles across Florida**, my longest ride so far. I called it *Florida: The Farewell Tour*. [See the ride on Strava](https://www.strava.com/activities/19017091239).
 
-```mermaid
-flowchart LR
-    FL["Florida coast to coast: 125.52 mi"] --> BAY["Next goal: 100-mile Bay loop"]
-```
+| Ride | Distance | Moving time |
+| --- | ---: | ---: |
+| Florida coast to coast · June 21, 2026 | 125.52 mi | 14:30:39 |
+| Next goal · the full Bay loop | 100 mi target | — |
+
+I’m looking for Bay Area group rides. I’d love to find people who think a ride around the Bay could use a few extra miles. [Find me on Strava](https://www.strava.com/athletes/71781898).
 
 ### Running
 
@@ -78,15 +95,13 @@ Saturday mornings are for **Baylands parkrun** in Sunnyvale. I’ve run one half
 
 ### Travel
 
-I was born and raised in **Hyderabad**, moved to **New Delhi** for undergrad, and visited **14 Indian states**. I interned at **Georgia Tech in Atlanta** and moved to the US to study at the **University of Florida**. I traveled whenever I could while at UF. When I moved to California for new opportunities, I made the move a **4,500-mile road trip**. I’ve visited **31 US states** so far.
+I grew up in **Hyderabad** and moved to **New Delhi** for undergrad. I’ve visited **14 states in India**. An internship at **Georgia Tech in Atlanta** brought me to the US for a stint, and I later moved here to study at the **University of Florida**. I traveled whenever I could while at UF.
 
-```mermaid
-flowchart LR
-    H[Hyderabad] --> D[New Delhi]
-    D --> A[Atlanta]
-    A --> F[University of Florida]
-    F -->|4,500-mile road trip| C[California]
-```
+When I moved from Florida to California for new opportunities, I turned the move into a **4,500-mile road trip**. I’ve visited **31 US states** so far.
+
+- **Hyderabad → New Delhi** · Home to undergrad.
+- **Atlanta → Florida** · A Georgia Tech internship and, later, grad school at UF.
+- **Florida → California** · The cross-country move, with enough detours to make a trip of it.
 
 ### National Parks
 
@@ -98,18 +113,3 @@ pie showData
     "Visited" : 17
     "Still to visit" : 46
 ```
-
-### Finance & Capital Markets
-
-- I’m interested in quantitative trading and how markets have evolved alongside computing, especially exchange matching algorithms, price discovery, and auction design.
-- I enjoy reading about [the history of commodity markets](https://thedocs.worldbank.org/en/doc/b4ff84b2d5dc4d0963a5074102460cc1-0350012022/related/Commodity-Markets-Chapter-1.pdf), from the [Dojima rice exchange](https://www.jpx.co.jp/dojima/en/index.html) to the development of [oil futures markets](https://www.cmegroup.com/openmarkets/energy/2023/the-40-year-story-of-a-crude-oil-benchmark.html). I’m curious about how centralizing trade changed the way these markets developed.
-- I think prices and [technological gains in productivity](https://www.jstor.org/stable/1910871) tell us a great deal about long-run economic growth and the stability of societies.
-- Beyond trading, I’m interested in deal-making, particularly private equity and venture investing.
-
-### Computer Science
-
-- Every few years I revisit the classics. I keep a [reading list of papers that helped define the field](https://docs.google.com/spreadsheets/d/11tlsKSeJrTP3r7ITQS3ql-Z4ZpR-K-zG67Q5htzrRbA/edit?usp=sharing).
-- Lately I’ve been following data-efficient learning, long-context sequence modeling, and multi-agent systems. I’m fascinated by what models can learn from the distribution of their training data and what sampling from those models might help us discover.
-- I’m following work on [teaching models to use tools](https://www.ft.com/content/64b1bb33-095e-4cc5-a911-50df76fa3d1d), from software and operating systems to physical instruments, and how that might [help automate scientific research](https://www.pnas.org/doi/10.1073/pnas.2406320121).
-- I think demand for compute may follow [Jevons’s paradox](https://en.wikipedia.org/wiki/Jevons_paradox). The history of [search and learning in AI](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) is one reason I keep coming back to that idea.
-- On the systems side, I’m interested in [orchestrating containers at scale](https://arxiv.org/abs/2205.07147), languages built around tensors with C++-class performance, and the relationship between data centers and power markets.
