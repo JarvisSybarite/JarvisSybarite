@@ -49,12 +49,25 @@ Experienced in Python backend development, REST APIs, databases, and cloud platf
 
 - **[Backend Engineering from First Principles](https://github.com/JarvisSybarite/backend-from-first-principles)** — An ongoing series that follows a fictional bookstore from its first HTTP request to production. Start with [the roadmap](https://github.com/JarvisSybarite/backend-from-first-principles/blob/main/01-the-roadmap.md).
 
-## Outside of work
-
-- **Formula 1** — I follow the races and enjoy the strategy behind them.
-- **Biking** — My favorite way to get outside and explore.
-- **National parks** — I’m always up for a trip that starts with a trail map.
-
 ## 🔗 Links
 - GitHub: https://github.com/JarvisSybarite  
 - LinkedIn: https://linkedin.com/in/jarvispremraj
+
+## Who I am & what I’m interested in
+
+Outside of work, I’m into **Formula 1, biking, and national parks**.
+
+### Finance & Capital Markets
+
+- I’m interested in quantitative trading and how [markets have evolved alongside computing](https://www.sifma.org/wp-content/uploads/2019/10/SIFMA-Insights-Electronic-Trading-Market-Structure-Primer.pdf), especially exchange matching algorithms, price discovery, and auction design.
+- I enjoy reading about [the history of commodity markets](https://thedocs.worldbank.org/en/doc/b4ff84b2d5dc4d0963a5074102460cc1-0350012022/related/Commodity-Markets-Chapter-1.pdf), from the [Dojima rice exchange](https://www.jpx.co.jp/dojima/en/index.html) to the development of [oil futures markets](https://www.cmegroup.com/openmarkets/energy/2023/the-40-year-story-of-a-crude-oil-benchmark.html). I’m curious about how centralizing trade changed the way these markets developed.
+- I think prices and [technological gains in productivity](https://www.jstor.org/stable/1910871) tell us a great deal about long-run economic growth and the stability of societies.
+- Beyond trading, I’m interested in deal-making, particularly private equity and venture investing.
+
+### Computer Science
+
+- Every few years I revisit the classics. I keep a [reading list of papers that helped define the field](https://docs.google.com/spreadsheets/d/11tlsKSeJrTP3r7ITQS3ql-Z4ZpR-K-zG67Q5htzrRbA/edit?usp=sharing).
+- Lately I’ve been following data-efficient learning, long-context sequence modeling, and multi-agent systems. I’m fascinated by what models can learn from the distribution of their training data and what sampling from those models might help us discover.
+- I’m following work on [teaching models to use tools](https://www.ft.com/content/64b1bb33-095e-4cc5-a911-50df76fa3d1d), from software and operating systems to physical instruments, and how that might [help automate scientific research](https://www.pnas.org/doi/10.1073/pnas.2406320121).
+- I think demand for compute may follow [Jevons’s paradox](https://en.wikipedia.org/wiki/Jevons_paradox). The history of [search and learning in AI](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) is one reason I keep coming back to that idea.
+- On the systems side, I’m interested in [orchestrating containers at scale](https://arxiv.org/abs/2205.07147), languages built around tensors with C++-class performance, and the relationship between data centers and power markets.
