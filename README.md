@@ -59,16 +59,22 @@ I follow Formula 1, and when I can get outside I’m usually on a bike, out for 
 
 ### Biking
 
-My longest ride so far was a **Florida coast-to-coast ride on the longest day of 2026**. I’m looking for group rides in the Bay Area, and my next big goal is to ride the entire Bay loop and stretch it to **100 miles**. [Follow me on Strava](https://www.strava.com/athletes/71781898).
+On June 21, 2026, I rode coast to coast across Florida. **125.52 miles and 14:30:39 of moving time** made it my longest ride so far. [Florida: The Farewell Tour on Strava](https://www.strava.com/activities/19017091239). I’m looking for group rides in the Bay Area, and my next big goal is to ride the entire Bay loop and stretch it to **100 miles**. [Follow me on Strava](https://www.strava.com/athletes/71781898).
 
 ```mermaid
 flowchart LR
-    FL["Longest ride so far: Florida coast to coast"] --> BAY["Next goal: 100-mile Bay loop"]
+    FL["Florida coast to coast: 125.52 mi"] --> BAY["Next goal: 100-mile Bay loop"]
 ```
 
 ### Running
 
 Saturday mornings are for **Baylands parkrun** in Sunnyvale. I’ve run one half marathon, and I’m training for my first full marathon. The Saturday 5K gives me a familiar course to see how the training is going.
+
+| Strava 5K records | Date | Time |
+| --- | --- | ---: |
+| [Best 5K effort · Depot Park parkrun](https://www.strava.com/activities/18345141697/best-efforts) | May 2, 2026 | **24:24** |
+| [5K No. 54 · moving time](https://www.strava.com/activities/20562543021) | Oct 12, 2026 | 27:19 |
+| [5K No. 55 · moving time](https://www.strava.com/activities/20824875500) | Nov 1, 2026 | 28:55 |
 
 ### Travel
 
