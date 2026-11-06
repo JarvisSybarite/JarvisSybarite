@@ -74,14 +74,10 @@ I follow Formula 1, and when I can get outside I’m usually on a bike, out for 
 
 ### Biking
 
-I spent the longest day of 2026 seeing how far daylight and two wheels would get me. The answer was **125.52 miles across Florida**, my longest ride so far. I called it *Florida: The Farewell Tour*. [See the ride on Strava](https://www.strava.com/activities/19017091239).
-
-| Ride | Distance | Moving time |
-| --- | ---: | ---: |
-| Florida coast to coast · June 21, 2026 | 125.52 mi | 14:30:39 |
-| Next goal · the full Bay loop | 100 mi target | — |
-
-I’m looking for Bay Area group rides. I’d love to find people who think a ride around the Bay could use a few extra miles. [Find me on Strava](https://www.strava.com/athletes/71781898).
+- **Longest ride:** [Florida coast to coast](https://www.strava.com/activities/19017091239) · 125.52 mi (202.0 km) in 14:30:39 moving time, June 21, 2026.
+- **Next goal:** The full Bay loop, stretched to 100 mi (160.9 km). I’m looking for Bay Area group rides. [Find me on Strava](https://www.strava.com/athletes/71781898).
+- **Distance ridden in 2026:** 859.1 mi (1,382.6 km).
+- **All-time cycling distance:** 3,319.7 mi (5,342.5 km).
 
 ### Running
 
@@ -100,13 +96,11 @@ When I moved from Florida to California for new opportunities, I turned the move
 - **Atlanta → Florida** · A Georgia Tech internship and, later, grad school at UF.
 - **Florida → California** · The cross-country move, with enough detours to make a trip of it.
 
+- **Indian states visited:** `██████████░░░░░░░░░░` **14/28** (50%)
+- **US states visited:** `████████████░░░░░░░░` **31/50** (62%)
+
 ### National Parks
 
 I’m working toward visiting every US national park. My checklist has **17 of 63** marked visited, including Everglades, Mammoth Cave, Yellowstone, and Yosemite. [See my parks checklist](https://docs.google.com/document/d/1pnW7Qr9my8tg9lgtuH_Nd4oirCl3BsMumfLeGR4R2Uc/edit?usp=sharing).
 
-```mermaid
-pie showData
-    title US national parks on my checklist
-    "Visited" : 17
-    "Still to visit" : 46
-```
+- **US national parks visited:** `█████░░░░░░░░░░░░░░░` **17/63** (27%)
