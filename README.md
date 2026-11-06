@@ -85,13 +85,10 @@ I’m looking for Bay Area group rides. I’d love to find people who think a ri
 
 ### Running
 
-Saturday mornings are for **Baylands parkrun** in Sunnyvale. I’ve run one half marathon, and I’m training for my first full marathon. The Saturday 5K gives me a familiar course to see how the training is going.
-
-| Strava 5K records | Date | Time |
-| --- | --- | ---: |
-| [Best 5K effort · Depot Park parkrun](https://www.strava.com/activities/18345141697/best-efforts) | May 2, 2026 | **24:24** |
-| [5K No. 54 · moving time](https://www.strava.com/activities/20562543021) | Oct 12, 2026 | 27:19 |
-| [5K No. 55 · moving time](https://www.strava.com/activities/20824875500) | Nov 1, 2026 | 28:55 |
+- **Fastest 5K:** [24:24](https://www.strava.com/activities/18345141697/best-efforts)
+- **Fastest half marathon:** [3:02:35](https://www.strava.com/activities/18321130225/best-efforts)
+- **Distance run in 2026:** 316.1 mi (508.7 km)
+- **All-time running distance:** 801.8 mi (1,290.4 km)
 
 ### Travel
 
