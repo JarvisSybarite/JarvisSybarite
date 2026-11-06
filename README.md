@@ -35,15 +35,18 @@ Experienced in Python backend development, REST APIs, databases, and cloud platf
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+## More Projects
+
+- **[LaiD · Meal Planner](https://github.com/JarvisSybarite/laid-meal-planner)** — A React and Flask rebuild of an undergraduate project, with meal plans, grocery checklists, and the original research paper.
+- **[Big Brain · MRI Classification](https://github.com/JarvisSybarite/big-brain-mri#original-research-showcase)** — Original research figures and model comparisons alongside a Python rebuild verified on synthetic data.
+
 ## 📌 Featured Projects
 - **Job Application Tracker API** — FastAPI backend with health checks, REST endpoints, and Swagger docs  
 - **Public Data ETL Dashboard** — Python + SQL data pipelines and reporting  
 - **Production REST API Template** — Clean API structure with environment setup and documentation
 
-## More projects & writing
+## Writing
 
-- **[LaiD · Meal Planner](https://github.com/JarvisSybarite/laid-meal-planner)** — A React and Flask rebuild of an undergraduate project, with meal plans, grocery checklists, and the original research paper.
-- **[Big Brain · MRI Classification](https://github.com/JarvisSybarite/big-brain-mri#original-research-showcase)** — Original research figures and model comparisons alongside a Python rebuild verified on synthetic data.
 - **[Backend Engineering from First Principles](https://github.com/JarvisSybarite/backend-from-first-principles)** — An ongoing series that follows a fictional bookstore from its first HTTP request to production. Start with [the roadmap](https://github.com/JarvisSybarite/backend-from-first-principles/blob/main/01-the-roadmap.md).
 
 ## 🔗 Links
