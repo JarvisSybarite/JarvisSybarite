@@ -99,6 +99,14 @@ When I moved from Florida to California for new opportunities, I turned the move
 - **Indian states visited:** `██████████░░░░░░░░░░` **14/28** (50%)
 - **US states visited:** `████████████░░░░░░░░` **31/50** (62%)
 
+### Private Pilot Training
+
+I’m in ground school and working toward earning my private pilot license in **2027**. For now, my time in aviation is mostly spent at a desk.
+
+### Formula 1
+
+I’m a **Mercedes F1** fan, and I still root for **Lewis Hamilton** after his move to Ferrari. My favorite driver of all time is **Valtteri Bottas**.
+
 ### National Parks
 
 I’m working toward visiting every US national park. My checklist has **17 of 63** marked visited, including Everglades, Mammoth Cave, Yellowstone, and Yosemite. [See my parks checklist](https://docs.google.com/document/d/1pnW7Qr9my8tg9lgtuH_Nd4oirCl3BsMumfLeGR4R2Uc/edit?usp=sharing).
