@@ -113,3 +113,20 @@ I’m in ground school and working toward earning my private pilot license in **
 ### Formula 1
 
 I’m a **Mercedes F1** fan, and I still root for **Lewis Hamilton** after his move to Ferrari. My favorite driver of all time is **Valtteri Bottas**.
+
+### Reading in 2026
+
+**Books finished**
+
+- *Scarcity Brain* by Michael Easter
+- *The Comfort Crisis* by Michael Easter
+- *The Art of Procrastination* by John Perry
+
+**Magazines read**
+
+- *MIT Technology Review* · May/June 2026
+- *MIT Technology Review* · July/August 2026
+
+**Currently reading**
+
+- *East of Eden* by John Steinbeck
